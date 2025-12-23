@@ -1,0 +1,12 @@
+flask
+werkzeug
+pytesseract
+opencv-python
+pillow
+googletrans==4.0.0-rc1
+ultralytics
+transformers
+torch
+google-generativeai
+python-dotenv
+numpy
