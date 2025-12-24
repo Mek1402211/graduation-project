@@ -45,7 +45,7 @@ A Flask-based backend API server designed to empower blind and visually impaired
 
 1. **Clone or download the project**
    ```bash
-   cd app-for-aws
+   cd graduation-project
    ```
 
 2. **Create a virtual environment** (recommended)
@@ -395,4 +395,5 @@ The API includes comprehensive error handling:
 ## Support
 
 For issues, questions, or contributions, please contact the development team.
+
 
